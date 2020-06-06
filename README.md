@@ -1,5 +1,6 @@
 # Ecoleta
 
+Ecoleta is an App to promote [World Environment Day](https://en.wikipedia.org/wiki/World_Environment_Day), where it is possible to connect drop off recyclable locations to the population.
 ![](https://github.com/lucasagra/NLW1.0/blob/master/images/presentation.png)
 
 
@@ -40,7 +41,7 @@ npm run knex:seed
 npm run dev
 ```
 
-## Front-end
+## Frontend
 
 ```bash
 # Go into web folder
