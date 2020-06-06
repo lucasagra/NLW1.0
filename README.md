@@ -1,6 +1,6 @@
 # Ecoleta
 
-Ecoleta is an App to promote [World Environment Day](https://en.wikipedia.org/wiki/World_Environment_Day), where it is possible to connect drop off recyclable locations to the population.
+Ecoleta is an App to promote [World Environment Day](https://en.wikipedia.org/wiki/World_Environment_Day), where it is possible to connect drop off locations of recyclable and disposable items (oils, batteries, ...) to the population.
 ![](https://github.com/lucasagra/NLW1.0/blob/master/images/presentation.png)
 
 
