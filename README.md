@@ -1,15 +1,13 @@
-# Rocketseat Next Level Week 1.0
+# Ecoleta
 
 ![](https://github.com/lucasagra/NLW1.0/blob/master/images/presentation.png)
 
 
 ## Used technologies
----
 
 - NodeJS _backend_
 - ReactJS _frontend_
 - React-Native _mobile_
----
 
 ## How To Use
 
@@ -23,7 +21,7 @@ $ git clone https://github.com/lucasagra/NLW1.0.git
 $ cd NLW1.0
 ```
 
-### Backend API
+## Backend API
 
 ```bash
 # Go into server folder
@@ -42,7 +40,7 @@ npm run knex:seed
 npm run dev
 ```
 
-### Front-end
+## Front-end
 
 ```bash
 # Go into web folder
@@ -55,7 +53,7 @@ npm install
 npm start
 ```
 
-### Mobile
+## Mobile
 
 ![](https://github.com/lucasagra/NLW1.0/blob/master/images/layoutmobile.png)
 
