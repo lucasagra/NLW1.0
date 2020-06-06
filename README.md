@@ -60,7 +60,7 @@ npm start
 
 Running with [Expo](https://expo.io/)
 
-- First download Expo app on your cellphone (iOS or Android)
+- First download Expo app to your mobile (iOS or Android)
 
 ```bash
 # Install expo on your machine
