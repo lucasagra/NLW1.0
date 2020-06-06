@@ -25,3 +25,9 @@ export default function App() {
     </>
   );
 }
+
+/* TODO:
+ - Usar a api do ibge para mostrar as cidades corretas
+ - Usar o react-native-picker-select para o menu
+ - Direcionar o mapa para a cidade escolhida
+*/
