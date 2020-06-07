@@ -74,3 +74,7 @@ expo start
 
 # Scan QR Code from your Phone
 ```
+
+
+## Credits to
+[**Rocketseat**](https://rocketseat.com.br/) for developing this project during the first Next Level Week workshop.
